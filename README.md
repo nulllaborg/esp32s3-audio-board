@@ -96,4 +96,8 @@ install library step
 
 [Click here view home assistant voice satellite](https://github.com/nulllaborg/ai-vox3_home_assistant_voice_satellite)
 
+## Firmware
+
+`ai-vox3-5in1-en-0711.bin` – Full Firmware for AI-Vox3 5-in-1 Board. 
+
 
