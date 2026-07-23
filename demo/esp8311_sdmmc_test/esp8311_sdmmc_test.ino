@@ -12,9 +12,9 @@
 #error "This example requires PSRAM to OPI PSRAM. Please enable it in Arduino IDE."
 #endif
 
-#define SD_MMC_D0   38
+#define SD_MMC_D0   40
 #define SD_MMC_CLK  39
-#define SD_MMC_CMD  40
+#define SD_MMC_CMD  38
 
 #define I2S_DOUT       7  // DSDIN pin(es8311)
 #define I2S_BCLK      10
